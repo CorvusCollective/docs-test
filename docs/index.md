@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Corvus Collective"
   text: "Test"
-  tagline: My great project tagline
+  tagline: skibi rizz ohio sigma
   actions:
     - theme: brand
       text: Markdown Examples
