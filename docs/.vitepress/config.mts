@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/docs-test/",
   title: "Corvus Collective",
-  description: "Corvus Collective Main Site",
+  description: "Test",
+  base: '/docs-test/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

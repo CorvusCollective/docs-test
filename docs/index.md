@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Corvus Collective"
-  text: "Corvus Collective Main Site"
+  text: "Test"
   tagline: My great project tagline
   actions:
     - theme: brand
